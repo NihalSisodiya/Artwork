@@ -1,4 +1,5 @@
 🎨 Artworks DataTable (React + PrimeReact) **https://artworksapidatatable.netlify.app/**
+
 This project is built as part of a React. It demonstrates how to integrate the Art Institute of Chicago API with a modern PrimeReact DataTable to display artwork information with server-side pagination and persistent row selection.
 
 Features
