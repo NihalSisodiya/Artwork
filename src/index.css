@@ -1,0 +1,33 @@
+.app-container {
+  font-family: "Inter", sans-serif;
+  background-color: #f9fafb;
+  min-height: 100vh;
+}
+
+.content {
+  padding: 2rem;
+}
+
+.p-toolbar {
+  background: linear-gradient(90deg, #2563eb, #1e40af);
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.p-card {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  border-radius: 12px;
+}
+
+button {
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1e40af;
+}
